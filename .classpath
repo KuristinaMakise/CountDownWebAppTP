@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/workspace/CountDownWebAppTP/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/CountDownWebAppTP/lib/jwebunit-core-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/CountDownWebAppTP/lib/jwebunit-htmlunit-plugin-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/CountDownWebAppTP/lib/sqlite-jdbc-3.15.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/jcl-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/jetty-io-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/jetty-util-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/jwebunit-core-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/logback-classic-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/logback-core-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/regexp-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/websocket-api-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/websocket-client-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/websocket-common-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jwebunit-3.3-release/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
