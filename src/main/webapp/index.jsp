@@ -84,7 +84,7 @@
 		{
 			var text = "ajouter|"+document.getElementById("countername").value+"|"+document.getElementById("language").value+"|"+document.getElementById("day").value+"/"+document.getElementById("month").value+"/"+document.getElementById("year").value+" "+document.getElementById("hour").value+":"+document.getElementById("minute").value+":"+document.getElementById("second").value;
 	
-console.log(text);
+
 
 			webSocket.send(text);
 			document.getElementById('counters').innerHTML = "";
@@ -237,8 +237,6 @@ console.log(text);
 		{
 			var text = "supprimer|"+id;
 	
-			console.log(text);
-
 			webSocket.send(text);
 		}
 
